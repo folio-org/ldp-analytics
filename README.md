@@ -54,10 +54,3 @@ README.md files in the query folders to explain how to run the
 reports.
 
 
-## How to learn more about SQL
-
-* [Self-paced course on Relational
-  Algebra](https://lagunita.stanford.edu/courses/DB/RA/SelfPaced/about)
-* [Self-paced course on
-  SQL](https://lagunita.stanford.edu/courses/DB/SQL/SelfPaced/about)
-
