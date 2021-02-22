@@ -56,7 +56,7 @@ reports.
 
 ## Releases and branches
 
-This repository makes release branches but not GitHub releases.
+This repository has release branches but not GitHub releases.
 
 There are two primary types of branches:
 
